@@ -122,7 +122,7 @@ software like Cytoscape for further analysis and visualization. It also generate
 ## Contact
 
 For assistance with running CuNA, interpreting the results, or other related questions, 
-please feel free to contact: Laxmi Parida <parida@us.ibm.com> or Aritra Bose <a.bose@ibm.com>
+please feel free to contact: Laxmi Parida (parida at us dot ibm dot com) or Aritra Bose (a dot bose at ibm dot com)
 
 <!-- LICENSE -->
 ## License
