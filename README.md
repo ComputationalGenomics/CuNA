@@ -72,7 +72,7 @@ To download please run:
 The command to run CuNA
 
 ```
-./CuNA --file MockData.xlsx 
+./CuNAwrapper --file MockData.xlsx 
 ```
 
 This is a default example. You can change the parameters as you see fit. 
